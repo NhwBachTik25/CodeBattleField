@@ -1,4 +1,4 @@
-# Hướng dẫn cài đặt hệ thống chấm điểm trực tuyến VNOJ - Dev Mode
+# Hướng dẫn cài đặt hệ thống chấm điểm trực tuyến CBOJ - Dev Mode
 
 Hướng dẫn này được xây dựng dựa trên [tài liệu chính thức của DMOJ](https://docs.dmoj.ca/). Trong quá trình cài đặt, một số bước đã được lược bỏ để đơn giản hóa việc cài đặt.
 
